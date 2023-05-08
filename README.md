@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Portfolio: desktop version </b></h3>
+  <h3><b>Portfolio: application deploy</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -27,9 +27,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Portfolio: desktop versionthe <a name="about-project"></a>
+# 📖 Portfolio: application deploy <a name="about-project"></a>
 
-Portfolio: desktop version is the desktop version of my portiflio .
+Portfolio: application deploy project is the first deployment of my portiflio .
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,13 +38,13 @@ Portfolio: desktop version is the desktop version of my portiflio .
 <details>
   <summary>HTML</summary>
   <ul>
-    <li><a href="NA">To create the basic structure of my portifolio</a></li>
+    <li><a href="NA">NA</a></li>
   </ul>
 </details>
 <details>
   <summary>CSS</summary>
   <ul>
-    <li><a href="NA">For styling  My portifolio</a></li>
+    <li><a href="NA">NA</a></li>
   </ul>
 </details>
 
@@ -55,6 +55,10 @@ Portfolio: desktop version is the desktop version of my portiflio .
 - creating the work and about me sections of my mobile version portiflio
 <p align="right">
 (<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+  > https://solog0039.github.io/portfolio-deploy.github.io/
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,11 +78,11 @@ Portfolio: desktop version is the desktop version of my portiflio .
   
 ### Setup
 
-Run the command to clone the project locally on your computer "git clone https://github.com/solog0039/Portfolio-setup-and-mobile-first2.git"
+Run the command https://solog0039.github.io/portfolio-deploy.github.io/ on any browser
 
 ### Install
 
-Install  all dependencies.
+Install almost all dependencies.
 This one will install stylelinter:
 
 > npm install
@@ -89,22 +93,25 @@ To run this project:
  1. open the whole project in VS code 
  2. right click on the HTML file
  3. select the "open with live server" option.
+ 4. then you can see the on the browser
 
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 Solomon G. Kidanu
-- GitHub: [Solomon](https://github.com/solog0039)
-- Twitter: [Solomon](https://twitter.com/Solomon57320119)
-- LinkedIn: [Solomon](https://www.linkedin.com/in/solomon-kidanu-62a994232/)
+
+- GitHub: [@Solomon](https://github.com/solog0039)
+- Twitter: [@Solomon](https://twitter.com/Solomon57320119)
+- LinkedIn: [Solomon](www.linkedin.com/in/solomon-kidanu-62a994232)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- HTML file
-- CSS file
-- Toolbar and headline 
+- [] HTML file
+- [] CSS file
+- [] Toolbar and headline 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +129,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to say thank you for microverse student success and my code partners
+> "Never stop learning, code never stop teaching"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

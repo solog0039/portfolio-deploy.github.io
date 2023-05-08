@@ -518,7 +518,7 @@ ul.skils :first-child :hover {
   display: flex;
   flex-direction: column;
   height: 80vh;
-  background-image: url(/assets/images/Group1.png);
+  background-image: url(./assets/images/Group1.png);
   background-repeat: no-repeat;
   background-position-y: 110%;
   background-position-x: 100%;
